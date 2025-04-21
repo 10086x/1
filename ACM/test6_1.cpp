@@ -3,32 +3,32 @@
 
 int main() {
     int need[100];
-    int last = 0;  // 阿姆斯特朗数计数器
+    int last = 0;  // ????????????????
     
     for (int i = 0; i <= 1000; i++) {
-        char h[5];  // 4位数+终止符足够
+        char h[5];  // 4λ??+???????
         int sum = 0;
         
-        // 获取数字位数
+        // ???????λ??
         sprintf(h, "%d", i);
         int now = strlen(h);
         
-        // 分解各位数字并计算立方和
+        // ????λ???????????????
         int d = i;
         for (int b = 0; b < now; b++) {
-            int digit = d % 10;  // 直接获取最后一位
+            int digit = d % 10;  // ?????????λ
             sum += digit * digit * digit;
-            d /= 10;  // 移除最后一位
+            d /= 10;  // ???????λ
         }
         
-        // 存储符合条件的数
+        // ?洢????????????
         if (sum == i) {
             need[last] = i;
-            last++;  // 先存储后自增
+            last++;  // ??洢??????
         }
     }
     
-    // 输出结果
+    // ??????
     for (int g = 0; g < last; g++) {
         printf("%d ", need[g]);
     }

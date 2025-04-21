@@ -2,8 +2,8 @@
 #include<string.h> 
 int main(){
 	int now =0; 
-	int sum = 0;  // 每次循环重置求和变量
-	int last = 0; // 在循环外声明计数器
+	int sum = 0;  // 
+	int last = 0; // 
 	int need[100]; 
 	for (int i = 0; i<=1000;i++){
 		char h[1000]; 
