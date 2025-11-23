@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "barrier": "cpp",
+        "bitset": "cpp",
+        "memory_resource": "cpp",
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp"
+    }
+}
