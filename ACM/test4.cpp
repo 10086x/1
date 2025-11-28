@@ -2,7 +2,7 @@
 #include <conio.h> 
 int main(){
 	int a,b,c,d,e;
-	printf("ÊäÈëÒ»¸öÎåÎ»Ê®½øÖÆÕûÊı£º");
+	printf("è¾“å…¥ä¸€ä¸ªäº”ä½åè¿›åˆ¶æ•´æ•°ï¼š");
 	a=getch();
 	putchar(a);
 	b=getch();
