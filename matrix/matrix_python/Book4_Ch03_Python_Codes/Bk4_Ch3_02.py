@@ -10,7 +10,6 @@
 
 import numpy as np
 from matplotlib import pyplot as plt
-import seaborn as sns
 
 u = [0,0,4, 3]
 v = [0,0,-2,4]
@@ -24,21 +23,21 @@ plt.quiver([u[0], u_bis[0], w[0]],
            [u[2], u_bis[2], w[2]],
            [u[3], u_bis[3], w[3]],
            angles='xy', scale_units='xy', 
-           scale=1, color=sns.color_palette())
+           scale=1, color=['blue', 'red', 'green'])
 
 plt.axvline(x=0, color='grey')
 plt.axhline(y=0, color='grey')
 
 plt.text(3, 1, r'$||\vec{u}||_2$', 
-         color=sns.color_palette()[0], size=12,
+         color='blue', size=12,
          ha='center',va='center')
 
 plt.text(3, 6, r'$||\vec{v}||_2$', 
-         color=sns.color_palette()[1], size=12,
+         color='red', size=12,
          ha='center',va='center')
 
 plt.text(0, 4, r'$||\vec{u}+\vec{v}||_2$', 
-         color=sns.color_palette()[2], size=12,
+         color='green', size=12,
          ha='center',va='center')
 
 plt.ylabel('$x_2$')
