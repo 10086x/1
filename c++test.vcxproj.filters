@@ -1,0 +1,934 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="acm\B_3614_模板_栈.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\B_3616_模板_队列.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\B_3656_模板_双端队列_1_list.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\homework_03.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\homework_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\homework_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\homework_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\P_1102_A_B_数对.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\P_1177_模板_排序.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\P_1706_全排列问题.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\P_1996_约瑟夫问题.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\P_2249_深基_13_例_1_查找.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\P_3378_模板_堆.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\P_3378_模板_堆_multiset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\P_3613_深基_15_例_2_寄包柜_map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\P_3613_深基_15_例_2_寄包柜_vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\P_4305_JLOI_2011_不重复数字_map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\P_4305_JLOI_2011_不重复数字_set.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\P_5705_深基_2_例_7_数字反转.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\test00.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\test2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\test4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\test5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\test6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\test6_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\test_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\test_7.1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\test_7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\test_computer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\test_product_root.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\worktest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="acm\实验9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c++\studywork01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c++\studywork02-problem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c++\studywork02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c++\test4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c++\project\test01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c++\xiaoya\test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c++\xiaoya\test2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c++\xiaoya\test3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c++\xiaoya\yhui1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c++\xiaoya\jiegou\test2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c++\xiaoya\second\test4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c++\xiaoya\second\test4_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\homework_03.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\homework_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\homework_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\homework_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\overteam_work_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\overteam_work_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\programme.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\teacher_test_6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test6_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\testbook_12,2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\testbymyself_15.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test_10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test_11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test_7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test_8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test_9.1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test_computer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test_mf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\test_mf_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\textbook_12.1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\实验9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\项目.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\test\string_shift.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\testbymyself\Primbymyself.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\testbymyself\test_15.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\testbymyself\test_15_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\c_language_assignment\testbymyself\test_7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\jiegou\test01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\jiegou\test02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\jiegou\test03.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\jiegou\test04.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\jiegou\test05.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\jiegou\test06.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c++schoolwork\jiegou\test07.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2\example2-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2\example2-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2\example2-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (10)\example12-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (10)\example12-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (10)\example12-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (10)\example12-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (10)\example12-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (10)\example12-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (10)\example12-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (10)\example12-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (10)\example12-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (10)\example12-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (2)\example3-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (2)\example3-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (2)\example3-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (2)\example3-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (2)\example3-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (2)\example3-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (2)\example3-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (2)\example3-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (2)\example3-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (2)\example3-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\cpp_template_with_utf8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\example4-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\example4-12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\example4-13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\example4-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\example4-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\example4-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\example4-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\example4-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\example4-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\example4-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\example4-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\lab5-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (3)\lab5-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (4)\example5-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (4)\example5-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (4)\example5-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (4)\example5-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (4)\example5-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (5)\example6-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (5)\example6-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (5)\example6-11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (5)\example6-12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (5)\example6-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (5)\example6-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (5)\example6-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (5)\example6-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (5)\example6-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (5)\example6-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (5)\example6-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (5)\example6-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (6)\example7-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (6)\example7-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (6)\example7-11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (6)\example7-12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (6)\example7-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (6)\example7-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (6)\example7-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (6)\example7-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (6)\example7-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (6)\example7-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (6)\example7-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (6)\example7-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (7)\example8-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-15.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (8)\example9-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="download_test\way_2 (9)\example11-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第02章\example2-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第02章\example2-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第02章\example2-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第03章\example3-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第03章\example3-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第03章\example3-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第03章\example3-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第03章\example3-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第03章\example3-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第03章\example3-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第03章\example3-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第03章\example3-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第03章\example3-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\cpp_template_with_utf8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\example4-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\example4-12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\example4-13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\example4-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\example4-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\example4-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\example4-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\example4-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\example4-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\example4-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\example4-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\lab5-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第04章\lab5-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第05章\example5-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第05章\example5-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第05章\example5-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第05章\example5-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第05章\example5-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第06章\example6-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第06章\example6-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第06章\example6-11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第06章\example6-12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第06章\example6-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第06章\example6-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第06章\example6-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第06章\example6-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第06章\example6-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第06章\example6-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第06章\example6-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第06章\example6-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第07章\example7-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第07章\example7-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第07章\example7-11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第07章\example7-12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第07章\example7-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第07章\example7-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第07章\example7-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第07章\example7-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第07章\example7-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第07章\example7-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第07章\example7-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第07章\example7-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第08章\example8-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-15.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第09章\example9-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第11章\example11-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第12章\example12-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第12章\example12-10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第12章\example12-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第12章\example12-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第12章\example12-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第12章\example12-5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第12章\example12-6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第12章\example12-7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第12章\example12-8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="例题\第12章\example12-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
